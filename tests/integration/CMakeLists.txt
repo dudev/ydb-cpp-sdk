@@ -1,2 +1,4 @@
 add_subdirectory(basic_example_it)
 add_subdirectory(bulk_upsert_simple_it)
+add_subdirectory(sessions)
+add_subdirectory(sessions_pool)
